@@ -1,15 +1,34 @@
-# live_whiteboard
+# DoodleHub
 
-To install dependencies:
+DoodleHub is a real-time collaborative drawing application that enables users to draw and collaborate on a shared canvas in their web browsers. This application is developed using Socket.io, vanilla JavaScript, and Node.js.
 
-```bash
-bun install
-```
+![DoodleHub Screenshot](./screenshot.png)
 
-To run:
+## Features
 
-```bash
-bun run index.ts
-```
+- **Real-time Collaboration**: Multiple users can draw simultaneously on a shared canvas.
+- **Drawing Tools**: Pencil and rectangle tools are available for creating drawings and shapes.
+- **Socket.io Integration**: Facilitates seamless communication and synchronization between users in real-time.
+- **Responsive Design**: Supports various screen sizes and devices for a consistent experience.
 
-This project was created using `bun init` in bun v1.0.21. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Demo
+
+Check out the live demo [here](https://your-doodlehub-url.com).
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/DoodleHub.git
