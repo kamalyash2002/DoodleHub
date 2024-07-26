@@ -16,9 +16,6 @@ DoodleHub is a real-time collaborative drawing application that enables users to
 2. Two different users on the different browsers can collborate.
 <img width="1470" alt="Screenshot 2024-07-26 at 1 49 24 AM" src="https://github.com/user-attachments/assets/da9e502e-310d-4d2d-959a-b79c941582e9">
 
-## Demo
-
-Check out the live demo [here](https://your-doodlehub-url.com).
 
 ## Table of Contents
 
