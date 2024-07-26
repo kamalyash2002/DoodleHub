@@ -1,6 +1,6 @@
 # DoodleHub
 
-DoodleHub is a real-time collaborative drawing application that enables users to draw and collaborate on a shared canvas in their web browsers. This application is developed using Socket.io, vanilla JavaScript, and Node.js.
+DoodleHub is a real-time collaborative drawing application that enables users to draw and collaborate on a shared canvas in their web browsers. This application is developed using Socket.io, Typescript, and Node.js.
 
 ## Features
 
