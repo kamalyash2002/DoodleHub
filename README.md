@@ -22,8 +22,7 @@ DoodleHub is a real-time collaborative drawing application that enables users to
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Installation
 
@@ -53,3 +52,5 @@ To run this application locally, follow these steps:
 4. Bun.js
 
 ## Contributing
+
+The project is open for the contribution and suggestion are welcomed.
