@@ -20,7 +20,6 @@ DoodleHub is a real-time collaborative drawing application that enables users to
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,6 +30,26 @@ DoodleHub is a real-time collaborative drawing application that enables users to
 To run this application locally, follow these steps:
 
 1. Clone the repository:
+2. Open the project and the run the command to install the node modules :
 
    ```bash
-   git clone https://github.com/your-username/DoodleHub.git
+   npm install
+3. Go the frontend folder and run the following command :
+   ```bash
+   cd frontend
+   npm install
+4. To run the backend (prerequisite : bun installation) :
+   ```bash
+   bun dev
+5. To run the frontend :
+   ```bash
+   cd frontend
+   bun dev
+## Technologies Used
+
+1. NodeJs
+2. Typescript
+3. Socket.io
+4. Bun.js
+
+## Contributing
